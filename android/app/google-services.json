@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630275184777",
+    "project_id": "atctimetable",
+    "storage_bucket": "atctimetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630275184777:android:8d84064d688546e8bf4e58",
+        "android_client_info": {
+          "package_name": "com.example.atc_timetable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIi7OiNio4bXN18jaL5d7TsOYgebZu5m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
